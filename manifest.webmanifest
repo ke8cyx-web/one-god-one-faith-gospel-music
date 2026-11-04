@@ -1,0 +1,18 @@
+{
+  "name": "One God One Faith Gospel Music",
+  "short_name": "Gospel Music",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f0",
+  "theme_color": "#165039",
+  "description": "One God One Faith Gospel Music community",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
